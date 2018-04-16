@@ -1,0 +1,29 @@
+{
+  "name": "embark-bamboo",
+  "version": "1.0.0",
+  "description": "Bamboo plugin for Embark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/status-im/embark-bamboo.git"
+  },
+  "keywords": [
+    "bamboo",
+    "embark",
+    "plugin",
+    "contracts",
+    "ethereum"
+  ],
+  "author": "Jonathan Rainville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/status-im/embark-bamboo/issues"
+  },
+  "homepage": "https://github.com/status-im/embark-bamboo#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
