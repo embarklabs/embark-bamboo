@@ -20,6 +20,6 @@ then add embark-bamboo to the plugins section in ```embark.json```:
 Requirements
 ======
 
-Embark 3.0.0 or higher
-Bamboo installed and available globally on your machine
+- Embark 3.0.0 or higher
+- Bamboo installed and available globally on your machine
 
