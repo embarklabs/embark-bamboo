@@ -21,4 +21,5 @@ Requirements
 ======
 
 Embark 3.0.0 or higher
+Bamboo installed and available globally on your machine
 
