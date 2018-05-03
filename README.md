@@ -1,7 +1,7 @@
 Embark-Bamboo
 ======
 
-Plugin for [Embark](https://github.com/embark-framework/embark) to Bamboo.
+Plugin for [Embark](https://github.com/embark-framework/embark) to support [Bamboo](https://github.com/pirapira/bamboo)
 
 Installation
 ======
