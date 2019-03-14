@@ -1,6 +1,6 @@
 {
   "name": "embark-bamboo",
-  "version": "1.1.0",
+  "version": "2.1.0",
   "description": "Bamboo plugin for Embark",
   "main": "index.js",
   "scripts": {
